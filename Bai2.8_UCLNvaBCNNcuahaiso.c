@@ -32,7 +32,7 @@ int main(int argc, char const *argv[])
 
             // cach 2
             while (b != 0)
-            {
+            { 
                 int x = b;
                 b = a % b;
                 a = x;
